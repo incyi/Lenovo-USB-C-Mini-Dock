@@ -4,6 +4,8 @@
 [Lenovo Specifications](https://www.lenovo.com/nl/nl/accessories-and-monitors/docking/usb-docks-universal-cable-docks/Lenovo-USB-C-Mini-Dock-EU/p/40AU0065EU)  
 [Lenovo Support + drivers](https://support.lenovo.com/us/nl/accessories/pd500304)  
   
+PCB: LX9058_REV1.3  
+  
 List of components:  
 (front)  
 [U42 VLI VL211-04](https://www.via-labs.com/product_show.php?id=90) VL211 - USB 3.1 Gen1 Hub Controller  
