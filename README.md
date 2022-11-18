@@ -1,7 +1,8 @@
 # Lenovo USB-C mini dock 
 40AU0065EU teardown  
 [Internal images](/images/README.md)  
-[Specifications](https://www.lenovo.com/nl/nl/accessories-and-monitors/docking/usb-docks-universal-cable-docks/Lenovo-USB-C-Mini-Dock-EU/p/40AU0065EU)  
+[Lenovo Specifications](https://www.lenovo.com/nl/nl/accessories-and-monitors/docking/usb-docks-universal-cable-docks/Lenovo-USB-C-Mini-Dock-EU/p/40AU0065EU)  
+[Lenovo Support + drivers](https://support.lenovo.com/us/nl/accessories/pd500304)  
   
 List of components:  
 (front)  
